@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Title"
+categories: "Meghan-Trainor"
+artist: "Meghan Trainor"
+art: "title.png"
+playlist_uri: "https://embed.spotify.com/?uri=spotify%3Auser%3Ayamartino%3Aplaylist%3A0b9UjHmqjmJv3mhLWJVX6P"
+---

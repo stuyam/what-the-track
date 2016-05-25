@@ -1,0 +1,76 @@
+body{
+  background: #181818;
+  color: white;
+}
+
+h1{
+  font-weight: 200;
+  letter-spacing: 1px;
+  color: #8F8F8F;
+}
+
+.center-block{
+  position: relative;
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.spotify-embed{
+  width: 100%;
+  max-width: 600px;
+  height: 440px;
+  @extend .center-block;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
+#disqus_thread{
+  width: 100% !important;
+  max-width: 600px !important;
+  @extend .center-block;
+  // opacity: 0.5;
+  // transition: opacity 0.25s;
+  // &:hover{
+  //   opacity: 1;
+  // }
+}
+
+a.album-post{
+  padding: 20px;
+  position: relative;
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+  color: white !important;
+  background: #282828;
+  &:hover{
+    text-decoration: none;
+    background: #2D2D2D;
+  }
+}
+
+.album-post__art{
+  font-weight: bold;
+  height: 200px;
+  width: 200px;
+  font-size: 8em;
+  color: white;
+  padding: 8px;
+  text-align: center;
+  background: no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  margin-bottom: 20px;
+}
+
+.album-post__album{
+  font-size: 1.2em;
+}
+
+.album-post__artist{
+  font-size: 1.1em;
+  color: #E2E2E2;
+}

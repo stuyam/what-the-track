@@ -7,6 +7,10 @@ h1{
   font-weight: 200;
   letter-spacing: 1px;
   color: #8F8F8F;
+  &:hover{
+    text-decoration: none !important;
+    color: #CACACA;
+  }
 }
 
 .center-block{
@@ -23,18 +27,26 @@ h1{
   @extend .center-block;
   margin-top: -1px;
   margin-bottom: 40px;
+  background: #282828;
 }
 
 #disqus_thread{
   width: 100% !important;
   max-width: 600px !important;
   @extend .center-block;
+  background: #282828;
+  padding: 20px;
   // opacity: 0.5;
   // transition: opacity 0.25s;
   // &:hover{
   //   opacity: 1;
   // }
 }
+
+// .album-post-page{
+//   background: #282828;
+//   padding: 25px;
+// }
 
 a.album-post{
   margin: 10px;

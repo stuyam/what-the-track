@@ -2,7 +2,7 @@
 layout: post
 title: "DS2"
 categories: "Future"
-artist: "future"
+artist: "Future"
 art: "ds2.jpg"
 playlist_uri: "https://embed.spotify.com/?uri=spotify%3Auser%3Ayamartino%3Aplaylist%3A12DiYJvWzc1UW8EIghsIxC"
 ---

@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Room 93"
+categories: "Halsey"
+artist: "Halsey"
+art: "room-93.jpg"
+playlist_uri: "https://embed.spotify.com/?uri=spotify%3Auser%3Ayamartino%3Aplaylist%3A3smvAGsGKtLxzzbRfP6zGh"
+---

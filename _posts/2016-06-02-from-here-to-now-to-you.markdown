@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "From Here To Now To You"
+title: "From Here To Now..."
 categories: "Jack-Johnson"
 artist: "Jack Johnson"
 art: "from-here-to-now-to-you.jpg"

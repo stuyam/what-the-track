@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "From Here To Now To You"
